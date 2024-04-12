@@ -28,8 +28,8 @@ La utilización de BEM y sass.
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ![Captura del proyecto](https://raw.githubusercontent.com/caamomilaa/social-links-profile/main/design/mobile-design.jpg)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/caamomilaa/social-links-profile/main/design/active-states.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/caamomilaa/social-links-profile/main/design/destkop-design.jpg)
 
 ## Autor ✒️
 
