@@ -9,11 +9,11 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Primer ejercicio utilizando sass. Consiste en un card con hover en version desktop.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+La utilización de BEM y sass.
 
 ## Tecnologías 🛠
 
@@ -33,11 +33,10 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Autor ✒️
 
-**TU NOMBRE**
+CAMILA VELÁZQUEZ D' AMICO
 
-- [micorreo@midominio.com](micorreo@midominio.com)
+- [c.velazquezdamico@gmail.com](c.velazquezdamico@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
 
 ## Instalación
 
