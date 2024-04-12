@@ -1,0 +1,17 @@
+@use '../mixins/hover.scss' as *;
+.button__container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+}
+.button {
+  width: 17.4375rem;
+  padding-block: 1.4063rem;
+  border-radius: 8px;
+  background-color: var(--color-grey);
+
+  @include hover {
+    background-color: var(--color-neongreeen);
+  }
+}
